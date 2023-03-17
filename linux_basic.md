@@ -1,8 +1,15 @@
+
+                              #Termux beginner guide from ineligiblebachelor
+
 ### install fdriod from below link
 
 [click here to download fdroid](https://f-droid.org/F-Droid.apk)
 
 
+
+### or directly download termux from here
+
+[drive link](https://drive.google.com/u/0/uc?id=10ClcS5gUfhl6FJnOvmIYkx-dSq8t9uYY&export=download)
 
 # termux basic commands
 
