@@ -1,3 +1,9 @@
+### install fdriod from below link
+
+[click here to download fdroid](https://f-droid.org/F-Droid.apk)
+
+
+
 # termux basic commands
 
 
