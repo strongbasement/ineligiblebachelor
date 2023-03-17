@@ -60,7 +60,7 @@ pkg install python
 
 ### click below link to learn linux commands
 
-[click here to learn linux command] (https://www.javatpoint.com/linux-commands)
+[click here to learn linux command](https://www.javatpoint.com/linux-commands)
 
 
 
